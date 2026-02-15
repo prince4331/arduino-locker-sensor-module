@@ -1,5 +1,7 @@
 ﻿# Locker Sensor Module
 
+![Platform](https://img.shields.io/badge/platform-Arduino-1f6feb) ![Focus](https://img.shields.io/badge/focus-Security-red) ![Status](https://img.shields.io/badge/status-Active-success)
+
 IR reflective sensor monitoring for locker intrusion with serial logging and buzzer hooks.
 
 ## Original Folder
