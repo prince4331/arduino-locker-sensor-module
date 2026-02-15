@@ -1,0 +1,4 @@
+﻿Title: Locker Sensor Module
+Overview: IR reflective sensor monitoring for locker intrusion with serial logging and buzzer hooks.
+Hardware: Arduino Uno, IR sensor module, optional buzzer/LED.
+Notes: Extend IR_Sensor_Test.ino with wireless notifications for production deployments.
